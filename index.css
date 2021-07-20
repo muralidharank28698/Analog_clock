@@ -116,7 +116,9 @@ body {
 .six {
 /*   top: 218px;
   right: -64px; */
-  top: 86%;
+/*   top: 86%;
+  right: 47%; */
+  top: 86.6%;
   right: 47%;
 }
 .seven {
@@ -128,8 +130,10 @@ body {
 .eight {
 /*   top: 108px;
   right: 195px; */
-  top: 63.5%;
-  left: 7.8%;
+/*   top: 63.5%;
+  left: 7.8%; */
+  top: 63.8%;
+  left: 7.4%;
 }
 .nine {
 /*   right: 262px; */
@@ -145,7 +149,9 @@ body {
 .eleven {
 /*   top: -182px;
   right: 260px; */
-  top: 6%;
+/*   top: 6%;
+  right: 65%; */
+   top: 8.2%;
   right: 65%;
 }
 
